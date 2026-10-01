@@ -1,3 +1,21 @@
-# Alarmlı Durak Bildirimi 
+<<<<<<< HEAD
+# durakalarmi
+=======
+# durak_alarmi
 
-Bu proje toplu taşıma araçlarını kullanan, varış noktasında bildirim ihtiyacı arayan kişiler için kolaylık sağlamaktadır.  Uygulama güncel konum ve ulaşılması gereken son konum arasındaki mesafeyi takip eder, kullanıcıdan alınan isteğe bağlı son konuma yakınlık mesafesinde ses ve titreşim bildirimleri gönderir. Kullanıcı canlı konumuna erişim izni verir.  Uyarıyı almak istediği konumu belirler. Konuma ulaşıldığında seçmiş olduğu alarm ve titreşim sesleriyle uyarı verilir.  
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> af4a3e9 (surak alarmı bir)

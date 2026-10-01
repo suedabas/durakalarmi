@@ -1,0 +1,1 @@
+# geldik uygulaması
